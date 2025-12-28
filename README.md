@@ -32,7 +32,7 @@
 
 ## 🏆 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prashantrajput19?theme=dark&font=Karma&ext=activity)](https://leetcode.com/code_19112003)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/code_19112003?theme=dark&font=Karma&ext=activity)](https://leetcode.com/code_19112003)
 
 ---
 
